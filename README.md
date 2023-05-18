@@ -1,5 +1,5 @@
 ## Prática 2 (Estruturas de Decisão, Repetição e Operadores Lógicos) 
->O programas estão na pasta 'src' com nomes e posições correspondentes ao problemas da lista.
+>O programas estão na pasta 'src' com nomes correspondentes ao problemas da lista.
 
 
 # Problemas
