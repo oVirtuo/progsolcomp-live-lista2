@@ -6,7 +6,7 @@
 import java.util.Scanner;
 
 public class Exe7_CalcHospedagem {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
         Scanner input = new Scanner(System.in);
 
         double valorDiaria = 60.00;
